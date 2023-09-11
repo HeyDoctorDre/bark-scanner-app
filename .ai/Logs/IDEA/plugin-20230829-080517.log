@@ -1,0 +1,4 @@
+2023-08-28T23:05:17.430Z [s.AiToolwindowsInitializer.reinitializeToolWindows] INFO AI state ENABLED
+2023-08-28T23:05:17.435Z [ctureModificationListener$Companion.initForProject] INFO ProjectStructureModificationListener is init for project bark-scanner-app
+2023-08-28T23:05:17.483Z [itializeManager$initializeAnalyzer$1.invokeSuspend] INFO minimum infrastructure version violation! Skip infrastructure initialization
+2023-08-28T23:05:32.084Z [intellij.services.AiInitializeManager.initializeAI] INFO IntelliJ listens web server on port: 63342
